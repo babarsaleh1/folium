@@ -36,3 +36,4 @@ Add any other context about the problem here.
 List any solutions you may have come up with.
 
 folium is maintained by volunteers. Can you help making a fix for this issue?
+[ Include a data sample or link to your data if necessary to run the code.updated ]
